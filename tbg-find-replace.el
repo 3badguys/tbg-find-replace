@@ -16,6 +16,6 @@
 ;;; Code:
 
 
-
+(provide 'tbg-find-replace)
 
 ;;; tbg-find-replace.el ends here
